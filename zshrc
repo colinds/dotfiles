@@ -1,6 +1,6 @@
 export ZSH="$HOME/.oh-my-zsh"
 
-ENABLE_CORRECTION="true"
+ENABLE_CORRECTION="false"
 
 plugins=(
     git
